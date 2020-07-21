@@ -37,6 +37,8 @@
 
   - 作业4：首页、找课、学习、我的完成。
 
+- 确定视觉风格脑图：https://naotu.baidu.com/file/6ca326de22be5e92d170b6f18c5005a2
+
 
 
 ## 上节回顾
