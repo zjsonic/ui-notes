@@ -91,7 +91,7 @@ body{
     - 计算公式：dp/px =  ppi/160
       - 例：x/48 = 320/160  = 2/1
 - SP：安卓开发专用的字体大小单位
-- <img src="/Users/zj/ui-notes/ux/images/dp.png" style="zoom:30%;" />
+- <img src="images/dp.png" style="zoom:30%;" />
 
 ## 安卓字体
 
